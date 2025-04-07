@@ -2,7 +2,7 @@ package constants;
 
 import java.util.Scanner;
 
-import static at.campus02.ini.zam.pr2.ue1.constants.AgeCalculator.*;
+import static constants.AgeCalculator.*;
 
 public class Main {
     public static void main (String [] args){

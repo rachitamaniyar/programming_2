@@ -1,7 +1,7 @@
 package generics;
 
-import at.campus02.ini.zam.pr2.ue5.Book;
-import at.campus02.ini.zam.pr2.ue5.Fossils;
+
+import collections.Fossils;
 
 public class GenericMain {
     public static void main(String[] args) {

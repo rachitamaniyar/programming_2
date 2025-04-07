@@ -1,7 +1,5 @@
 package StudentValidation;
 
-import at.campus02.ini.zam.pr2.ue3.Main;
-
 import java.util.Scanner;
 
 public class StudentValidation {
