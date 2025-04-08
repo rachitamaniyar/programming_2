@@ -2,7 +2,7 @@ package inheritance_example_animal;
 
 public class Beagle extends Dog {
     public Beagle() {
-        System.out.println("Beagle constructor.");
+        //System.out.println("Beagle constructor.");
     }
     //Polymorphism using override
     @Override

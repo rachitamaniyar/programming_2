@@ -13,5 +13,9 @@ public class Main {
         Beagle beagle = new Beagle();
         //Method modified for Beagle
         beagle.action();
+        //Upcasting
+        System.out.println("-----------------------------------");
+        Dog beagle2 = new Beagle();
+        beagle2.action();
     }
 }
